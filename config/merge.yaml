@@ -1,0 +1,4 @@
+save_folder: 'data'
+save_filename: 'result'
+ext_format: 'json'
+delete_receive: False

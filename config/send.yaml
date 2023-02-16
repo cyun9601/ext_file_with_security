@@ -1,0 +1,4 @@
+url: 'http://172.16.23.70:8288'
+send_file: '../data.json' # json or xlsx
+save_folder: 'data'
+n_thread: 5
